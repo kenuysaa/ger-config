@@ -1,4 +1,4 @@
 Discentes da Equipe
 - Guilherme Kenuy Saavedra Nunes
 - Clara Leticia Oliveira Vieira
-- Gabriel Batista
+- Gabriel Batista dos Santos 
