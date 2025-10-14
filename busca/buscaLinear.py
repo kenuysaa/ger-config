@@ -4,6 +4,7 @@ def busca_linear(lista, valor):
             return i
     return -1
 
+
 # Exemplo de uso
 if __name__ == "__main__":
     lista = [10, 20, 30, 40, 50]

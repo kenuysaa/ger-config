@@ -10,6 +10,7 @@ def busca_binaria(lista, valor):
             fim = meio - 1
     return -1
 
+
 # Exemplo de uso
 if __name__ == "__main__":
     lista = [10, 20, 30, 40, 50]
