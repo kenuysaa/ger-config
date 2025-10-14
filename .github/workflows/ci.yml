@@ -27,7 +27,7 @@ jobs:
           pip install flake8 pytest
 
       - name: Lint Python files
-        run: run: flake8 ger-config/algoritmos-ordenacao/*.py
+        run: flake8 ger-config/algoritmos-ordenacao/*.py
 
       # - name: Run tests
       #   run: pytest
